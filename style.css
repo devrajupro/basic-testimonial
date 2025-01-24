@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: "Poppins", serif;
 }
 
 /* BASIC CSS END */
@@ -52,4 +53,34 @@
     font-family: "Poppins", serif;
     font-size: 14px;
     color: #a7a7a7
+}
+
+/* TESTIMONIAL FIRST SECTION CSS END HERE */
+
+/* TESTIMONIAL SECOND SECTION CSS STARTED FROM HERE */
+
+.testi-sec-two {
+    padding-top: 90px;
+    padding-bottom: 90px;
+    background: #ffffff;
+}
+
+.owner-img .owner-pic {
+    border-radius: 50%;
+    border: 2px dotted #a7a7a7;
+}
+
+
+.owner-img {
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+.testi-box {
+    background: #FBFBFB;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: -9px 20px 10px 3px #79797921;
 }
