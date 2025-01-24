@@ -83,4 +83,14 @@
     padding: 25px;
     border-radius: 10px;
     box-shadow: -9px 20px 10px 3px #79797921;
+    transition: .2s all;
+}
+
+
+.testi-box:hover {
+    background: #FBFBFB;
+    margin: 20px;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: -9px 20px 10px 3px #00000047;
 }
