@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* BASIC CSS END */
+
+
+
+
+/* BODY CSS START FROM HERE */
+
+.testimonial {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background: #fcf3f3;
+}
+
+ .testimonial h2 {
+    font-family: "Poppins", serif;
+    font-size: 36px;
+    font-weight: 700;
+    margin-left: 25px;
+}
+
+.testimonial .container .row .sub-text {
+    font-family: "Poppins", serif;
+    font-size: 18px;
+    margin-left: 25px;
+}
+
+.testimonial .container .row .first-row {
+    background: white;
+    padding: 25px;
+    margin: 25px;
+    border-radius: 8px;
+}
+
+.testimonial .container .row .first-row p {
+    font-size: 15px;
+    font-family: "Poppins", serif;
+}
+
+.testimonial .container .row .first-row span {
+    font-family: "Poppins", serif;
+    font-size: 14px;
+    color: #2c2c2c
+}
+
+.testimonial .container .row .first-row .opacity-text {
+    font-family: "Poppins", serif;
+    font-size: 14px;
+    color: #a7a7a7
+}
